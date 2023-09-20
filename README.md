@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @DigiTechnologyGit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, We are @DigiTechnology
 
-<!---
-DigiTechnologyGit/DigiTechnologyGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Smart solutions for Smart business
+Developing cutting-edge technology solutions for your business that make the world a smaller place by providing faster services. We are strategists, thinkers, and doers at your service. Utilizing our ability to assemble client-driven plans that are upheld by our experience.
+
+
+Want to Start a New Project?
+
+Get in touch with our team.
+Address : Digi Technology Nepal, Dillibazar, P84J+876, Kathmandu 44600
+Phone : +977 9801986455
+Email : info@digitechnologynepal.com
